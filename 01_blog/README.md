@@ -17,8 +17,6 @@ Use 'Salary_Analysis_Notebook.ipynb' to run Python code that I used to analyze t
 
 ## File Structure
 - <u>Salary_Analysis_Notebook.ipynb'</u>: Jupyter notebook with analysis steps in Python
-- <u>survey_results_public.csv</u>: Raw dataset from Stack Overflow
-- <u>survey_results_schema.csv</u>: Data dictionary for the dataset
 - <u>gender_pay_gap.jpg</u>: Image used in blog post submission
 - <u>generations.png</u>: Image used in Jupyter notebook and blog post
 - <u>image.png</u>: Image of the CRISP-DM steps
