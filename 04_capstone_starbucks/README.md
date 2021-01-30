@@ -7,7 +7,7 @@ The purpose of this project is to determine which coupons we should offer custom
 
 ## Problem Statement
 
-The current issue is that we do not know which coupons a customer will like the most. Each customer is different and has different purchasing habits and preferecnes, so we should create a model that is able to predict the likelihood of a customer using the coupons. We can use a customer's history of purchases profile to try and make accurate predictions. 
+Each of our customers are unique. They have different profiles, preferences, and purchasing habits. Because of these things, it is difficult to execute effective marketing campaigns using offers/coupons. Coupons can be an effective way to increase foot traffic in our stores, increase user engagement, and ideally increase our revenue and same store sales growth. In order to accomplish these objectives, we need to effectively personalize coupons so customers want to come into our stores and make purchases. 
 
 ## Data
 
