@@ -34,4 +34,4 @@ Some limitations of the model include:
 - If a customer really likes one coupon and continues to use it, this model may continue to offer the same coupon over and over. To mitigate this, I would make sure to store information of the last coupon a customer used. If the last coupon used is what is being recommended, then this time we can recommend the second best coupon the model suggests for the customer. 
 - Does not fully take into account how coupon usage affects profitability. Each coupon eats into a sale, and ideally you want to drive customer growth to the point where customers contiuously come into the store and make purchases because they like your product, not just because they have a good coupon. This could be something discussed with management to determine how to handle this in the future and if we want to focus on the bottom line more than top line revenue growth. 
 
-These limitations can be improved upon on a later date or if 
+These limitations can be improved upon on a later date. 
